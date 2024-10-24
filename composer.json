@@ -1,0 +1,10 @@
+{
+    "name": "alexis/composer_exo",
+    "description": "Un projet minimaliste avec une classe Hello.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
